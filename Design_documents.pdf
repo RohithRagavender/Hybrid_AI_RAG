@@ -1,0 +1,19 @@
+ documents = [
+    "Shipping Policy: Standard domestic shipping takes 3-5 business days. International shipping takes 10-15 business days. Free shipping is applicable on all orders exceeding $50. Once shipped, customers receive a tracking link via email.",
+    
+    "General Return Policy: We offer a 30-day return policy for most items. Products must be unused, in their original packaging, and with all tags attached. Perishable goods and personalized items are not eligible for return.",
+    
+    "Electronics Specific Policy: All electronic gadgets, including laptops and smartphones, have a limited 15-day return window. Any hardware defects reported after 15 days must be handled through the manufacturer's warranty services.",
+    
+    "Refund Process: Once a return is received and inspected, we notify the customer of the approval or rejection of the refund. Approved refunds are credited to the original payment method within 7-10 working days.",
+    
+    "Customer Support Availability: Our support team is available Monday through Friday, from 9 AM to 6 PM IST. We are closed on national holidays. For assistance, reach out via email at support@ai-store.com.",
+    
+    "Data Privacy & Security: We prioritize user data security. We use 256-bit SSL encryption to protect your personal information during checkout. Payment transactions are processed through a secure gateway provider.",
+    
+    "Cancellation Policy: Orders can be cancelled within 2 hours of placement for a full refund. After 2 hours, the order enters the processing stage and cannot be cancelled. In such cases, customers must wait for delivery and then initiate a return.",
+    
+    "Warranty Information: Most products come with a 1-year limited manufacturer warranty. This covers functional defects but does not cover physical damage, liquid spills, or unauthorized repairs.",
+    
+    "Priority Support: For urgent issues or order escalations, please contact our 24/7 priority support at emergency@store.com with your Order ID in the subject line."
+  ]

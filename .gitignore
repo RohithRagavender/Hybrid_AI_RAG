@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+Lib/
+Scripts/
+Include/
+
+# Torch / Large binaries
+*.dll
+*.so
+*.dylib

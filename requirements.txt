@@ -1,0 +1,6 @@
+langchain-ollama
+langchain-huggingface
+mysql-connector-python
+sqlalchemy
+chromadb
+sentence-transformers
