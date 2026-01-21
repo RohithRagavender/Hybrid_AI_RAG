@@ -16,4 +16,5 @@
     "Warranty Information: Most products come with a 1-year limited manufacturer warranty. This covers functional defects but does not cover physical damage, liquid spills, or unauthorized repairs.",
     
     "Priority Support: For urgent issues or order escalations, please contact our 24/7 priority support at emergency@store.com with your Order ID in the subject line."
+
   ]
